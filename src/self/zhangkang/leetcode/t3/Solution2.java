@@ -28,7 +28,7 @@ package self.zhangkang.leetcode.t3;
 public class Solution2 {
     /**
      * 思路
-     * 大佬的代码 研读中
+     * 大佬的代码 研读中 滑动窗口
      *
      * @param s
      * @return
